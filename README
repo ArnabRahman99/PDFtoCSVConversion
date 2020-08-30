@@ -1,0 +1,1 @@
+Simple script to take a PDF as input and use lattice and streaming libraries to convert into a csv accurately.
