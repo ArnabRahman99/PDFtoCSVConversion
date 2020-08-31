@@ -5,3 +5,5 @@ Currently, please split your pdf into pages with your specific tables. In a futu
 Well-structured means that the PDF has tables that are structured with lines and lattices. This is quite accurate.
 
 Un-structured means that the PDF has no lines/lattices separating the different fields in the tables. The accuracy for this option is lower than well structured.
+
+Dependencies: All libraries can be installed using pip, and ghostscript and tkinter can be installed externally to support camelot.
