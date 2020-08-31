@@ -1,5 +1,7 @@
 Simple script to take a PDF as input and use lattice, streaming, and image recognition libraries to convert into a csv accurately.
 
+Currently, please split your pdf into pages with your specific tables. In a future change, I will add the ability to choose pages that you would like to convert :).
+
 Well-structured means that the PDF has tables that are structured with lines and lattices. This is quite accurate.
 
 Un-structured means that the PDF has no lines/lattices separating the different fields in the tables. The accuracy for this option is lower than well structured.
